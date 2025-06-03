@@ -1,3 +1,2 @@
-# strona 
-moja strona 
-tyle
+# Site
+My personal site
