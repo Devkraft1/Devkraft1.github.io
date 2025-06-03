@@ -16,7 +16,8 @@ body
     background-repeat: no-repeat;
     background-size: cover;
 }
-#main {
+#main 
+{
   flex-shrink: 0;
   width: 600px;
   height: 60%;
@@ -28,14 +29,13 @@ body
     font-weight: bold;
     text-align: center;
 }
-.about-header {
+.about-header 
+{
     display: flex;
     align-items: center;
     gap: 1rem;
-}
-
-.about-header b {
-    white-space: nowrap;
+    font-weight:550;
+    color:white;
 }
 .divider
 {
@@ -43,4 +43,8 @@ body
     height: 2px;
     background-color: rgb(87, 87, 87);
     border:none;
+}
+#aboutme
+{
+    color:rgb(194, 194, 194);
 }
