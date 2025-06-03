@@ -1,2 +1,2 @@
 # Site
-My personal site
+My personal site made with HTML, CSS and JavaScript
